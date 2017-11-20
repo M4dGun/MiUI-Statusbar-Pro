@@ -3,8 +3,8 @@
     <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
     <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
     <string name="app_name">MiUI Statusbar Pro</string>
-    <string name="check_text_checkDeviceInfo">Controllo Info Dispositivo</string>
-    <string name="check_text_checkRootStatus">Controllo Status del Root</string>
+    <string name="check_text_checkDeviceInfo">Controllo Dispositivo</string>
+    <string name="check_text_checkRootStatus">Controllo del Root</string>
     <string name="check_text_rootDenied">Accesso Root Negato!</string>
     <string name="check_text_deviceNotSupported">Il tuo Firmware non è supportato!</string>
     <string name="check_alertRootDenied_message">"Il tuo Dispositivo non ha i permessi di Root oppure sono stati negati!\nPer utilizzare questa Applicazione si prega di abilitare l'accesso Root sul Dispositivo."</string>
@@ -51,19 +51,9 @@
     <string name="drawer_open">Apri menu di navigazione</string>
     <string name="drawer_close">Chiudi menu di navigazione</string>
     <string name="drawer_title">Menu</string>
-    <string name="drawer_item_about">About</string>
-    <string name="drawer_item_shop">Shop</string>
-    <string name="drawer_item_donate">Dona</string>
-    <string name="drawer_item_support">Supporta</string>
-    <string name="drawer_item_translate">Traduci</string>
-</resources>
-
-    <string name="drawer_open">Apri menu di navigazione</string>
-    <string name="drawer_close">Chiudi menu di navigazione</string>
-    <string name="drawer_title">Menu</string>
-    <string name="drawer_item_about">About</string>
-    <string name="drawer_item_shop">Shop</string>
-    <string name="drawer_item_donate">Dona</string>
-    <string name="drawer_item_support">Supporta</string>
-    <string name="drawer_item_translate">Traduci</string>
+    <string name="drawer_item_about">Informazioni</string>
+    <string name="drawer_item_shop">Negozio</string>
+    <string name="drawer_item_donate">Donazioni</string>
+    <string name="drawer_item_support">Supporto</string>
+    <string name="drawer_item_translate">Traduzioni</string>
 </resources>
